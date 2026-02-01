@@ -90,9 +90,6 @@
         <mxCell id="f7WmJZPNAKRTUxXRJ4VI-33" parent="1" style="text;whiteSpace=wrap;rounded=0;fillColor=none;fillStyle=hatch;strokeColor=default;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=default;spacingLeft=10;" value="{&#xa;  _id: {&#xa;    id: 1,&#xa;    orgId: 1,&#xa;    siteId: 1&#xa;  },&#xa;  name: new device&#xa;  type: Kitchen Display&#xa;  isActive: true&#xa;}" vertex="1">
           <mxGeometry height="166" width="147" x="709" y="-76" as="geometry" />
         </mxCell>
-        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-34" parent="1" style="swimlane;startSize=0;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
-          <mxGeometry height="200" width="200" x="394" y="334" as="geometry" />
-        </mxCell>
         <UserObject label="{&#xa;  id: uuid-1&#xa;  message: device added&#xa;  before: null&#xa;  after: { ...device payload }&#xa;  user: { email, id }&#xa;  action: CREATE&#xa;}" id="f7WmJZPNAKRTUxXRJ4VI-35">
           <mxCell parent="1" style="text;whiteSpace=wrap;strokeColor=default;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;spacingLeft=10;" vertex="1">
             <mxGeometry height="137" width="170" x="1124" y="379" as="geometry" />
