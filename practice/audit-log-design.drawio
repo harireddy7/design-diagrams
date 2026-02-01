@@ -1,9 +1,122 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="Page-1" id="z4dwD1Do5KFZ_38eLD-G">
-    <mxGraphModel dx="2066" dy="1137" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2866" dy="1537" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
+          <mxGeometry height="211" width="663" x="672" y="584" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
+          <mxGeometry height="211" width="663" x="-100" y="584" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
+          <mxGeometry height="491" width="743" x="-146" y="-16" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-5" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Patrick+Hand+SC&quot;&gt;Client&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="154" x="-414" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-8" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-4" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="/device" vertex="1">
+          <mxGeometry height="60" width="184" x="-26" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-12" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-7" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Device Service" vertex="1">
+          <mxGeometry height="60" width="182" x="270" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-14" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-11" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Audit Service" vertex="1">
+          <mxGeometry height="60" width="182" x="270" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-18" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-13" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="PubSub Service" vertex="1">
+          <mxGeometry height="60" width="182" x="270" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Cloud APIs Layer" vertex="1">
+          <mxGeometry height="30" width="200" x="-164" y="-7" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-20" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-17" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="audit-log-topic" vertex="1">
+          <mxGeometry height="60" width="182" x="-16" y="663" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-24" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-19" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="audit-log-subscription" vertex="1">
+          <mxGeometry height="60" width="211" x="282" y="663" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Pub Sub Layer" vertex="1">
+          <mxGeometry height="30" width="200" x="-121" y="593" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-26" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-23" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="/audit-log" vertex="1">
+          <mxGeometry height="60" width="211" x="740" y="663" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-25" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Audit Log Service" vertex="1">
+          <mxGeometry height="60" width="211" x="1031" y="663" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Cloud Connectors (Cloud Run)" vertex="1">
+          <mxGeometry height="30" width="278" x="674" y="594" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-31" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="824" y="125" />
+              <mxPoint x="824" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-29" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot; style=&quot;font-size: 22px;&quot;&gt;Ditto DB&lt;/font&gt;" vertex="1">
+          <mxGeometry height="135" width="96" x="1032.5" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-30" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.026;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-33" parent="1" style="text;whiteSpace=wrap;rounded=0;fillColor=none;fillStyle=hatch;strokeColor=default;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=default;spacingLeft=10;" value="{&#xa;  _id: {&#xa;    id: 1,&#xa;    orgId: 1,&#xa;    siteId: 1&#xa;  },&#xa;  name: new device&#xa;  type: Kitchen Display&#xa;  isActive: true&#xa;}" vertex="1">
+          <mxGeometry height="166" width="147" x="709" y="-76" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-34" parent="1" style="swimlane;startSize=0;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
+          <mxGeometry height="200" width="200" x="394" y="334" as="geometry" />
+        </mxCell>
+        <UserObject label="{&#xa;  id: uuid-1&#xa;  message: device added&#xa;  before: null&#xa;  after: { ...device payload }&#xa;  user: { email, id }&#xa;  action: CREATE&#xa;}" id="f7WmJZPNAKRTUxXRJ4VI-35">
+          <mxCell parent="1" style="text;whiteSpace=wrap;strokeColor=default;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;spacingLeft=10;" vertex="1">
+            <mxGeometry height="137" width="170" x="1124" y="379" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-37" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1081" y="663" />
+              <mxPoint x="1081" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-38" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.734;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1103" y="544" />
+              <mxPoint x="1103" y="544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="&lt;h1&gt;&lt;font face=&quot;Akaya Telivigala&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Akaya+Telivigala&quot;&gt;Audit logs&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="308" x="297" y="-181" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
