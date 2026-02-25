@@ -1,0 +1,312 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.3">
+  <diagram name="Page-1" id="z4dwD1Do5KFZ_38eLD-G">
+    <mxGraphModel dx="2466" dy="1937" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JFj16D0feKvPUTcfi1rI-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
+          <mxGeometry height="211" width="711" x="907" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
+          <mxGeometry height="211" width="711" x="903" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
+          <mxGeometry height="391" width="743" x="74" y="-566" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-5" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;dashed=1;" target="f7WmJZPNAKRTUxXRJ4VI-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Patrick+Hand+SC&quot;&gt;POS&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="154" x="-254" y="-469" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-8" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-4" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Routing Engine" vertex="1">
+          <mxGeometry height="60" width="184" x="194" y="-470" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-7" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Events Service" vertex="1">
+          <mxGeometry height="60" width="182" x="490" y="-470" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="KDS App Layer" vertex="1">
+          <mxGeometry height="30" width="200" x="62" y="-557" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-20" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="f7WmJZPNAKRTUxXRJ4VI-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-17" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="order-event-topic" vertex="1">
+          <mxGeometry height="60" width="182" x="987" y="388" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-72" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" target="JFj16D0feKvPUTcfi1rI-71" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-19" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="order-event-subscription" vertex="1">
+          <mxGeometry height="60" width="262" x="1285" y="388" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Pub Sub Layer" vertex="1">
+          <mxGeometry height="30" width="200" x="894" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-44" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="JFj16D0feKvPUTcfi1rI-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-29" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;Ditto DB&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot; style=&quot;font-size: 22px;&quot;&gt;Big Peer&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="135" width="96" x="192" y="-113" as="geometry" />
+        </mxCell>
+        <UserObject label="{&#xa;  id: uuid-1&#xa;  version: (uuid/timestamp)&#xa;  event: order received&#xa;  orderId: 123&#xa;  orderBumped: true&#xa;  event_timestamp: 01/01/01&#xa;  payload: {... }&#xa;  metadata: { ... }&#xa;}" id="f7WmJZPNAKRTUxXRJ4VI-35">
+          <mxCell parent="1" style="text;whiteSpace=wrap;strokeColor=default;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;spacingLeft=10;" vertex="1">
+            <mxGeometry height="161" width="170" x="639" y="448" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="f7WmJZPNAKRTUxXRJ4VI-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="&lt;h1&gt;&lt;font face=&quot;Akaya Telivigala&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Akaya+Telivigala&quot;&gt;NCRA Reports&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="308" x="305" y="-732" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
+          <mxGeometry height="211" width="663" x="1820" y="2264" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
+          <mxGeometry height="211" width="663" x="1048" y="2264" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
+          <mxGeometry height="491" width="743" x="1002" y="1664" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-4" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Patrick+Hand+SC&quot;&gt;Client&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="154" x="734" y="1762" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-6" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-7" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="/device" vertex="1">
+          <mxGeometry height="60" width="184" x="1122" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-8" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-9" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Device Service" vertex="1">
+          <mxGeometry height="60" width="182" x="1418" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-10" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-11" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Audit Service" vertex="1">
+          <mxGeometry height="60" width="182" x="1418" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-12" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-13" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="PubSub Service" vertex="1">
+          <mxGeometry height="60" width="182" x="1418" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Cloud APIs Layer" vertex="1">
+          <mxGeometry height="30" width="200" x="984" y="1673" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-15" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-16" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="audit-log-topic" vertex="1">
+          <mxGeometry height="60" width="182" x="1132" y="2343" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-17" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-18" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="audit-log-subscription" vertex="1">
+          <mxGeometry height="60" width="211" x="1430" y="2343" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Pub Sub Layer" vertex="1">
+          <mxGeometry height="30" width="200" x="1027" y="2273" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-20" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-21" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="/audit-log" vertex="1">
+          <mxGeometry height="60" width="211" x="1888" y="2343" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-22" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Audit Log Service" vertex="1">
+          <mxGeometry height="60" width="211" x="2179" y="2343" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Cloud Connectors (Cloud Run)" vertex="1">
+          <mxGeometry height="30" width="278" x="1822" y="2274" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-24" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1972" y="1805" />
+              <mxPoint x="1972" y="1805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-25" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot; style=&quot;font-size: 22px;&quot;&gt;Ditto DB&lt;/font&gt;" vertex="1">
+          <mxGeometry height="135" width="96" x="2180.5" y="1731" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-26" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.026;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-27" parent="1" style="text;whiteSpace=wrap;rounded=0;fillColor=none;fillStyle=hatch;strokeColor=default;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=default;spacingLeft=10;" value="{&#xa;  _id: {&#xa;    id: 1,&#xa;    orgId: 1,&#xa;    siteId: 1&#xa;  },&#xa;  name: new device&#xa;  type: Kitchen Display&#xa;  isActive: true&#xa;}" vertex="1">
+          <mxGeometry height="166" width="147" x="1857" y="1604" as="geometry" />
+        </mxCell>
+        <UserObject label="{&#xa;  id: uuid-1&#xa;  message: device added&#xa;  before: null&#xa;  after: { ...device payload }&#xa;  user: { email, id }&#xa;  action: CREATE&#xa;}" id="JFj16D0feKvPUTcfi1rI-28">
+          <mxCell parent="1" style="text;whiteSpace=wrap;strokeColor=default;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;spacingLeft=10;" vertex="1">
+            <mxGeometry height="137" width="170" x="2272" y="2059" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-29" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2229" y="2343" />
+              <mxPoint x="2229" y="2105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-30" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.734;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2251" y="2224" />
+              <mxPoint x="2251" y="2224" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=15;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Order" vertex="1">
+          <mxGeometry height="30" width="200" x="-93" y="-472" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-32" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot; style=&quot;font-size: 16px;&quot;&gt;Ditto DB&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Caveat&quot; style=&quot;font-size: 16px;&quot;&gt;Small Peer&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="89" width="79" x="200" y="-318" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-35" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242" y="-410" as="sourcePoint" />
+            <mxPoint x="241.5" y="-318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-36" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="232" y="-409" as="sourcePoint" />
+            <mxPoint x="232" y="-317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-37" edge="1" parent="1" source="f7WmJZPNAKRTUxXRJ4VI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="JFj16D0feKvPUTcfi1rI-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="568" y="-273" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=15;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="order_event collection" vertex="1">
+          <mxGeometry height="30" width="200" x="337" y="-311" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-39" parent="1" style="text;whiteSpace=wrap;rounded=0;fillColor=none;fillStyle=hatch;strokeColor=default;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=default;spacingLeft=10;" value="{&#xa;  _id: {&#xa;    id: 1,&#xa;    orgId: 1,&#xa;    siteId: 1&#xa;  },&#xa;  event: &#39;ORDER RECEIVED&#39;&#xa;  orderId: 123&#xa;  receivedAt: 01/01/01/&#xa;}" vertex="1">
+          <mxGeometry height="166" width="147" x="587" y="-367" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-40" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="f7WmJZPNAKRTUxXRJ4VI-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242" y="-217" as="sourcePoint" />
+            <mxPoint x="241.5" y="-125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-41" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.354;exitY=0.978;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitPerimeter=0;entryX=0.396;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="f7WmJZPNAKRTUxXRJ4VI-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="228.9659999999999" y="-230.95800000000008" as="sourcePoint" />
+            <mxPoint x="229" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=15;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Kafka enabled app" vertex="1">
+          <mxGeometry height="30" width="200" x="18" y="-65" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-65" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.5" y="183.5" as="sourcePoint" />
+            <mxPoint x="239.5" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-43" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Akaya Telivigala;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
+          <mxGeometry height="69.5" width="224" x="127.5" y="114" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-47" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Akaya Telivigala&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Kafka Cluster&lt;/span&gt;" vertex="1">
+          <mxGeometry height="41" width="123" x="367" y="131" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-51" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.167;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="187" y="184.25" as="sourcePoint" />
+            <mxPoint x="187" y="113.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-52" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.167;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="239" y="185" as="sourcePoint" />
+            <mxPoint x="239" y="114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-53" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.167;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="297" y="185" as="sourcePoint" />
+            <mxPoint x="297" y="114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-56" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Akaya Telivigala&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Topic&lt;/span&gt;" vertex="1">
+          <mxGeometry height="36" width="34" x="140" y="134" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-57" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Akaya Telivigala&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Topic&lt;/span&gt;" vertex="1">
+          <mxGeometry height="36" width="35" x="194" y="134" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-58" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Akaya Telivigala&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Topic&lt;/span&gt;" vertex="1">
+          <mxGeometry height="36" width="40" x="246" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-59" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Akaya Telivigala&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Topic&lt;/span&gt;" vertex="1">
+          <mxGeometry height="36" width="32" x="309" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="" vertex="1">
+          <mxGeometry height="211" width="663" x="-92" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-61" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" target="JFj16D0feKvPUTcfi1rI-63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-62" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="/order-report" vertex="1">
+          <mxGeometry height="60" width="160" x="-23" y="388" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-66" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="f7WmJZPNAKRTUxXRJ4VI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-63" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Order Report Service" vertex="1">
+          <mxGeometry height="60" width="196" x="297" y="388" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Cloud Connectors (Cloud Run)" vertex="1">
+          <mxGeometry height="30" width="278" x="-84" y="319" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-67" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Akaya Telivigala&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Transformed Data&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Akaya Telivigala&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;with version bump&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="41" width="123" x="659" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-68" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Akaya Telivigala&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Raw Order Data&lt;/span&gt;" vertex="1">
+          <mxGeometry height="41" width="123" x="161" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-76" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JFj16D0feKvPUTcfi1rI-75" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-71" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Order Event Service" vertex="1">
+          <mxGeometry height="60" width="262" x="1285" y="738" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Akaya Telivigala;fontSize=22;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="NCRA Layer" vertex="1">
+          <mxGeometry height="30" width="147" x="917" y="674" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-78" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;dashed=1;" target="JFj16D0feKvPUTcfi1rI-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-75" parent="1" style="whiteSpace=wrap;html=1;fontSize=22;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="Biq Query Service" vertex="1">
+          <mxGeometry height="60" width="262" x="943" y="738" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-77" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Akaya Telivigala;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAkaya%2BTelivigala;" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Google&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;BigQuery&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="135" width="96" x="638" y="686" as="geometry" />
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-80" edge="1" parent="1" source="JFj16D0feKvPUTcfi1rI-77" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.689;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="JFj16D0feKvPUTcfi1rI-75" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="749" y="800" as="sourcePoint" />
+            <mxPoint x="799" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFj16D0feKvPUTcfi1rI-81" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Akaya Telivigala&amp;quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;when isFinalBumped is true on any document in order_event collection&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="456" x="271" y="34" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
